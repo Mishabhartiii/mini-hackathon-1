@@ -51,8 +51,4 @@ parking.exe
 6. Exit
 
 Enter your choice:
-👥 Team Members
-1.	Team Member 1 – [KRITI GUPTA]
-2.	Team Member 2 – [MISHA BHARTI]
-3.	Team Member 3 – [RIDHIMA CHILLAR]
-🚀 Future Improvements
+
